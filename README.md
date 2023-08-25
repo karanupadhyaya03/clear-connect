@@ -1,6 +1,6 @@
 # Clear Connect - a video conferencing app
 
-**Gmeet Clone** is a multi-user video conferencing web app developed as a group project under Coding Club, IITG. The project was active from June 2022 to July 2022. The app allows users to seamlessly connect and communicate via video and audio, while also providing collaborative features such as a whiteboard and chat functionality.
+**Clear Connect** is a multi-user video conferencing web app developed as a group project under Coding Club, IITG (Named as **Gmeet Clone**). The project was active from June 2022 to July 2022. The app allows users to seamlessly connect and communicate via video and audio, while also providing collaborative features such as a whiteboard and chat functionality.
 
 ## Features
 
